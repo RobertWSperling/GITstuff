@@ -1,2 +1,6 @@
 This is a file in the publicBranch1 branch of the public free repo account.
+This line is an edit created by the public repo and might conflict with the edit made by the private repo.
+
+note: a conflict did generate diffs and I kept the conflicting line below
+
 This is the first line added by the paid account-private.
